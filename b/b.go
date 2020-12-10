@@ -1,3 +1,3 @@
 package b
 
-const name = "This is B"
+const Name = "This is B"
